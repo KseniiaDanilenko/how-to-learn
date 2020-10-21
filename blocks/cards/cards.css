@@ -4,7 +4,6 @@
     box-sizing: border-box;
     width:920px;
     display: flex;
-    justify-content: space-between;
     flex-wrap: wrap;
-    list-style: none;
+    list-style: none; 
 }    

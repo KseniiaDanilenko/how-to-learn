@@ -1,9 +1,12 @@
 .cards__item{
-    margin: 0;
-    padding:0;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-   width: 240px;
-   box-sizing: border-box;
-}
+  padding:0;
+  margin: 0 100px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 240px;
+  box-sizing: border-box;
+} 
+.cards__item:nth-of-type(3) {
+  margin-right: 0;
+  }
